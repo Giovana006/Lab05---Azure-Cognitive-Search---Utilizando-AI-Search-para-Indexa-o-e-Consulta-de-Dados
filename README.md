@@ -27,16 +27,6 @@ Após concluir o projeto seguindo os passos pode se ter algumas ideias de aplica
 
 Uma delas seria para uso em uma rede de franquias, na qual pode se obter rapidamente através de uma breve busca varios dados das franquias de uma determinada localidade, saber quais franquias são melhores e piores avaliadas e o motivo. Entre outras aplicações. Ou seja o principal uso desse recurso seria por empresas independente do tamanho da mesma.
 
-### ✅ Passos realizados:
-
-> [!IMPORTANT]
->
-> - [x] Ter um cadastro na [Azure](https://azure.microsoft.com) - realize o login na plataforma;
-> - Baixe o [zipped coffee reviews](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) - Será utilizado na etapa 3 - `Storage accounts`;
-> 
-
-> Para a realização deste desafio serão utilizados `3 recursos`. **Confira cada um abaixo**:
-
 ### **Introdução :**
 
 O serviço de índice de Pesquisa de IA do Azure, conhecido como **Azure Cognitive Search**, oferece recursos de enriquecimento de IA para processar conteúdos que não são pesquisáveis em sua forma bruta.
@@ -51,6 +41,19 @@ Ao final, implementei uma solução de mineração de conhecimento que facilita 
 
 Este experimento envolveu, entre outras, as seguintes etapas: extração de dados em um *datasource*, enriquecimento dos dados com habilidades de IA, utilização do indexador do Azure, consulta ao índice de pesquisa e revisão dos resultados salvos em uma base de conhecimento armazenada.
 
+### **Contexto do problema :**
+Vamos imaginar que você trabalha para a Fourth Coffee, uma rede nacional de cafés. Você foi solicitado a ajudar a criar uma solução de mineração de conhecimento que facilite a busca de insights sobre as experiências dos clientes. Você decide criar um índice do Azure AI Search usando dados extraídos de avaliações de clientes.
+
+### ✅ Passos realizados:
+
+> [!IMPORTANT]
+>
+> - [x] Ter um cadastro na [Azure](https://azure.microsoft.com) - realize o login na plataforma;
+> - Baixe o [zipped coffee reviews](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) - Será utilizado na etapa 3 - `Storage accounts`;
+> 
+
+> Para a realização deste desafio serão utilizados `3 recursos`. **Confira cada um abaixo**:
+
 ### **Aprovisionando os recursos necessários do Azure :**
 
 Para realizar este laboratório, foi necessário aprovisionar, no [Portal do Azure](https://portal.azure.com/), os 3 serviços abaixo:
@@ -62,5 +65,3 @@ Para realizar este laboratório, foi necessário aprovisionar, no [Portal do Azu
 > [!NOTE]
 > Os 3 serviços precisaram ser aprovisionados no mesmo local (região), para permitir a integração entre eles.
 
-### **Contexto do problema :**
-Vamos imaginar que você trabalha para a Fourth Coffee, uma rede nacional de cafés. Você foi solicitado a ajudar a criar uma solução de mineração de conhecimento que facilite a busca de insights sobre as experiências dos clientes. Você decide criar um índice do Azure AI Search usando dados extraídos de avaliações de clientes.
