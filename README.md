@@ -1,5 +1,15 @@
 ## **Desafio: Utilizando AI Search para indexação e consulta de Dados**
 
+![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
+![Static Badge](https://img.shields.io/badge/AI_Search-blue)
+![Static Badge](https://img.shields.io/badge/AI_Data_Indexing-blue)
+![Static Badge](https://img.shields.io/badge/AI_Document_Intelligence-blue)
+![Static Badge](https://img.shields.io/badge/AI_Knowledge_Mining-blue)
+
+![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)
+![Static Badge](https://img.shields.io/badge/Azure_Cognitive_Search-orange)
+![Static Badge](https://img.shields.io/badge/Azure_Storage_Account-orange)
+
 ### **Descrição do Projeto :**
 
 Este repositório tem como finalidade armazenar o projeto desenvolvido no âmbito do módulo **"Inteligência de Documentos e Mineração de Conhecimento"** do Bootcamp **"Microsoft Azure AI Fundamentals"** da [DIO](https://www.dio.me/users/giovananascimentoferreira1) , sob orientação da professora [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/) .
@@ -64,4 +74,40 @@ Para realizar este laboratório, foi necessário aprovisionar, no [Portal do Azu
 
 > [!NOTE]
 > Os 3 serviços precisaram ser aprovisionados no mesmo local (região), para permitir a integração entre eles.
+
+#### **Passo 1: Criar um recurso _Azure AI Search_**
+
+Inicialmente, precisamos acessar o [portal do Azure](https://portal.azure.com/) .
+
+Depois vamos criar o recurso do **Azure AI Search** de acordo com os passos do vídeo a seguir:
+
+<img src="Assets/Passo 1 - Criar o recurso Azure AI Search.gif">
+
+#### **Passo 2: Criar um recurso _Azure AI Service_**
+
+Agora vamos criar o recurso Azure AI Service de acordo com os passos do vídeo a seguir :
+
+<img src="Assets/Passo 2 - Criar o recurso Azure AI Service.gif">
+
+#### **Passo 3: Criando Conta de Armazenamento**
+
+Precisamos criar uma conta de armazenamento porque ela nos fornecerá um namespace exclusivo para os dados, conterá todos os objetos de dados e a partir daí poderemos integrá-los à pesquisa cognitiva.
+
+Vamos começar selecionando uma conta de armazenamento.
+
+<img src="Assets/Passo 3 - Criando uma Conta de Armazenamento.gif">
+
+#### **Passo 4: Configurar a Conta de Armazenamento Criada**
+
+Precisaremos permitir o acesso anônimo ao Blob.
+
+<img src="Assets/Passo 4 - Configurar a Conta de Armazenamento Criada.gif">
+
+#### **Passo 5: Crie um Novo Contêiner em Nossa Conta de Armazenamento**
+
+Você precisará criar um novo contêiner em nossa conta de armazenamento.
+
+Siga de acordo com os passos do vídeo a seguir :
+
+<img src="Assets/Passo 5 - Crie um Novo Contêiner em Nossa Conta de Armazenamento.gif">
 
