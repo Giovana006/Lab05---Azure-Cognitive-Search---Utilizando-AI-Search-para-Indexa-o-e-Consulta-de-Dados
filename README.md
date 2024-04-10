@@ -111,3 +111,7 @@ Siga de acordo com os passos do vídeo a seguir :
 
 <img src="Assets/Passo 5 - Crie um Novo Contêiner em Nossa Conta de Armazenamento.gif">
 
+#### **Etapa 6: importe os dados para o contêiner**
+
+Vamos acessar o container criado e fazer upload dos arquivos presentes no input do repositório para a pasta [review-coffee](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) .
+
