@@ -117,8 +117,9 @@ Vamos acessar o container criado e fazer upload dos arquivos presentes no input 
 
 <img src="Assets/Passo 6 - Importe os Dados para o Contêiner.gif">
 
-Arquivos Utilizados no Vídeo: 
+**Arquivos Utilizados no Vídeo:**
 
-[Arquivo em DOCX]()
+[Arquivo em DOCX](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee/Documentos%20Word%20(.docx))
 
-[Arquivo em TXT]()
+[Arquivo em TXT](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee/Documentos%20de%20Texto%20(.txt))
+
