@@ -115,6 +115,8 @@ Siga de acordo com os passos do vídeo a seguir :
 
 Vamos acessar o container criado e fazer upload dos arquivos presentes no input do repositório para a pasta [review-coffee](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee) .
 
+Siga de acordo com os passos do vídeo a seguir :
+
 <img src="Assets/Passo 6 - Importe os Dados para o Contêiner.gif">
 
 **Arquivos Utilizados no Vídeo:**
@@ -122,4 +124,12 @@ Vamos acessar o container criado e fazer upload dos arquivos presentes no input 
 [Arquivo em DOCX](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee/Documentos%20Word%20(.docx))
 
 [Arquivo em TXT](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee/Documentos%20de%20Texto%20(.txt))
+
+#### **Passo 7: Importe os dados para o Azure AI Search**
+
+Agora você precisará importar os dados para o **Azure AI Search** por meio do **Azure Blop Storage**.
+
+Siga de acordo com os passos do vídeo a seguir :
+
+<img src="Assets/Passo 7 - Importe os Dados para o Azure AI Search.gif">
 
