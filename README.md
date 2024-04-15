@@ -155,7 +155,7 @@ Preenchendo o campo ***“Anexar serviços de IA”*** .
 
 <img src="Assets/Anexar serviços de IA.png">
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > **Passo 1 :** Selecionar a **Storage Accounts** Criada.
 >
