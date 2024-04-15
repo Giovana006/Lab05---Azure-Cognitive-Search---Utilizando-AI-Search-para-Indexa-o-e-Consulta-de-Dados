@@ -113,7 +113,7 @@ Siga de acordo com os passos do vídeo a seguir :
 
 #### **Passo 6: importe os dados para o contêiner**
 
-Vamos acessar o container criado e fazer upload dos arquivos presentes no input do repositório para a pasta [review-coffee](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) .
+Vamos acessar o container criado e fazer upload dos arquivos presentes no input do repositório para a pasta [review-coffee](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/tree/main/Inputs/review-coffee) .
 
 <img src="Assets/Passo 6 - Importe os Dados para o Contêiner.gif">
 
