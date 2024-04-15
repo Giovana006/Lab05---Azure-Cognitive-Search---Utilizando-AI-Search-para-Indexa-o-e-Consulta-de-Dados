@@ -153,3 +153,13 @@ Preenchendo o campo ***“Anexar serviços de IA”*** .
 
 **Passos para Anexar os Serviços de IA :**
 
+<img src="Assets/Anexar serviços de IA.png">
+
+> [!IMPORTANT]
+>
+> **Passo 1 :** Selecionar a **Storage Accounts** Criada.
+>
+> **Passo 2 :** Selecionar o **Contêiner** Criado (review-coffee).
+>
+> **Passo 3 :** Click no botão **SELECT**.
+
