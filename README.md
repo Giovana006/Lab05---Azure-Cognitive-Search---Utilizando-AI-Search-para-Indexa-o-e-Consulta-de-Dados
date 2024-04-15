@@ -163,3 +163,11 @@ Preenchendo o campo ***“Anexar serviços de IA”*** .
 >
 > **Passo 3 :** Click no botão **SELECT**.
 
+**Preenchendo o campo "Add enrichments" :**
+
+<img src="Assets/Configurações da aba Add Enrichments - Parte 1.png">
+
+<img src="Assets/Configurações da aba Add Enrichments - Parte 2.png">
+
+**Preenchendo o campo "Save Enrichments to a Knowledge Store" :**
+
