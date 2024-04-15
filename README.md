@@ -133,3 +133,23 @@ Siga de acordo com os passos do vídeo a seguir :
 
 <img src="Assets/Passo 7 - Importe os Dados para o Azure AI Search.gif">
 
+#### **Passo 8: Conecte-se aos Seus Dados**
+
+Depois de ir para a página de importar os dados no recurso, agora você precisará preencher algumas informações para configurar a importação de dados para o Azure AI Search por meio do Azure Blob Storage.
+
+De acordo com a imagem a seguir:
+
+<img src="Assets/Configurações para a Importação de Dados para o Azure AI Search.png">
+
+**Obs:** Depois de configurar e anexar os serviços de IA.
+
+#### **Passo 9 - Configurações Adicionais :**
+
+Preenchendo o campo ***“Anexar serviços de IA”*** .
+
+**Formulário para Anexar os Serviços de IA :**
+
+<img src="Assets/Anexar serviços de IA - Link  para o Formulário.png">
+
+**Passos para Anexar os Serviços de IA :**
+
