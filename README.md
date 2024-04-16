@@ -173,3 +173,23 @@ Preenchendo o campo ***“Attach AI Services”*** :
 
 **Preenchendo o campo "Save Enrichments to a Knowledge Store" :**
 
+**Formulário para Anexar os Serviços de IA :**
+
+<img src="Assets/Configurações da aba Save Enrichments to a Knowledge Store - Parte 1.png">
+
+**Passos para Anexar os Serviços de IA :**
+
+<img src="Assets/Configurações da aba Save Enrichments to a Knowledge Store - Parte 2.png">
+
+> [!NOTE]
+>
+> **Passo 1 :** Selecionar a **Storage Accounts** Criada.
+>
+> **Passo 2 :** Selecionar o **Contêiner** Criado (review-coffee).
+>
+> **Passo 3 :** Click no botão **SELECT**.
+
+Depois de selecionar o Contêiner podemos passar para a próxima etapa.
+
+De acordo com os passos a seguir:
+
