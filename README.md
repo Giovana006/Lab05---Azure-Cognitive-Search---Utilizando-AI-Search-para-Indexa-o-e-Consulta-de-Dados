@@ -141,19 +141,15 @@ De acordo com a imagem a seguir:
 
 <img src="Assets/Configurações para a Importação de Dados para o Azure AI Search.png">
 
-**Obs:** Depois de configurar e anexar os serviços de IA.
+**Obs:** Depois de configurar e anexar o  serviços de IA.
 
-#### **Passo 9 - Configurações Adicionais :**
+**Formulário para Anexar a Storage Accounts e o Contêiner :**
 
-Preenchendo o campo ***“Anexar serviços de IA”*** .
+<img src="Assets/Anexar o Contêiner - Link  para o Formulário.png">
 
-**Formulário para Anexar os Serviços de IA :**
+**Passos para Anexar a Storage Accounts e o Contêiner :**
 
-<img src="Assets/Anexar serviços de IA - Link  para o Formulário.png">
-
-**Passos para Anexar os Serviços de IA :**
-
-<img src="Assets/Anexar serviços de IA.png">
+<img src="Assets/Anexar o Contêiner.png">
 
 > [!NOTE]
 >
@@ -162,6 +158,12 @@ Preenchendo o campo ***“Anexar serviços de IA”*** .
 > **Passo 2 :** Selecionar o **Contêiner** Criado (review-coffee).
 >
 > **Passo 3 :** Click no botão **SELECT**.
+
+#### **Passo 9 - Configurações Adicionais :**
+
+Preenchendo o campo ***“Attach AI Services”*** :
+
+<img src="Assets/Anexar os serviços ou recursos de IA.png">
 
 **Preenchendo o campo "Add enrichments" :**
 
