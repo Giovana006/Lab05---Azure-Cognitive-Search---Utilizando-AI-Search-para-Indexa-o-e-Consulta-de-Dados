@@ -193,3 +193,7 @@ Depois de selecionar o Contêiner podemos passar para a próxima etapa.
 
 De acordo com os passos a seguir:
 
+<img src="Assets/Configurações da aba Save Enrichments to a Knowledge Store - Parte 3.png">
+
+<img src="Assets/Configurações da aba Save Enrichments to a Knowledge Store - Parte 4.png">
+
