@@ -205,6 +205,16 @@ Preenchendo a aba ***“Customize Target Index”*** :
 
 <img src="Assets/Configurações da aba Customize Target Index - Parte 2.png">
 
+> [!NOTE]
+>
+> **Passo 1 :** Mude o nome de **azureblob-indexer** para **coffee-indexer**.
+>
+> **Passo 2 :** Na barra **Key** , se não estiver selecionada, selecione **metadata_storage_path** .
+>
+> **Passo 3 :** Selecionar a Caixa da ***Coluna*** **Filterable** na ***Linha*** **Content** .
+>
+> **Passo 4 :** Click no botão **Next : Create an Intexer**.
+
 #### **Passo 11: Crie um Indexador**
 
 Preenchendo a aba ***"Create an indexer"*** :
