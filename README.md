@@ -205,3 +205,5 @@ Preenchendo a aba ***“Customize Target Index”*** :
 
 <img src="Assets/Configurações da aba Customize Target Index - Parte 2.png">
 
+#### **Passo 11: Crie um Indexador**
+
