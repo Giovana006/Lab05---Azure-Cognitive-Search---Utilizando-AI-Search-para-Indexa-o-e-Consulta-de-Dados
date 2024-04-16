@@ -233,3 +233,6 @@ Use o Search Explorer para escrever e testar consultas. O explorador de pesquisa
 
 <img src="Assets/Passo 13 - Consulte o Índice.gif">
 
+Vamos começar analisando se a string de consulta está disponível.
+
+Arquivo JSON da Consulta: [consulta_string_on.json]()
