@@ -235,4 +235,5 @@ Use o Search Explorer para escrever e testar consultas. O explorador de pesquisa
 
 Vamos começar analisando se a string de consulta está disponível.
 
-Arquivo JSON da Consulta: [consulta_string_on.json]()
+**Arquivo JSON da Consulta:** [consulta_string_on.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/consulta_string_on.json)
+
