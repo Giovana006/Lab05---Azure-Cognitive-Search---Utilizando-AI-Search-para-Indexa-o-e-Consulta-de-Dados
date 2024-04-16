@@ -207,3 +207,17 @@ Preenchendo a aba ***“Customize Target Index”*** :
 
 #### **Passo 11: Crie um Indexador**
 
+Preenchendo a aba ***"Create an indexer"*** :
+
+<img src="Assets/Configurações da aba Create an Indexer.png">
+
+> [!NOTE]
+>
+> **Passo 1 :** Mude o nome de **azureblob-indexer** para **coffee-indexer**.
+>
+> **Passo 2 :** Selecionar a palavra **ONCE** se não estiver selecionada.
+>
+> **Passo 3 :** Selecionar a Caixa **Base-64 Encode Keys** se não estiver selecionada.
+>
+> **Passo 4 :** Click no botão **SUBMIT**.
+
