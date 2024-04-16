@@ -197,3 +197,11 @@ De acordo com os passos a seguir:
 
 <img src="Assets/Configurações da aba Save Enrichments to a Knowledge Store - Parte 4.png">
 
+#### **Passo 10: Personalizar o Índice de Destino :**
+
+Preenchendo a aba ***“Customize Target Index”*** :
+
+<img src="Assets/Configurações da aba Customize Target Index - Parte 1.png">
+
+<img src="Assets/Configurações da aba Customize Target Index - Parte 2.png">
+
