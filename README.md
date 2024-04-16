@@ -239,11 +239,11 @@ Vamos começar analisando se a string de consulta está disponível.
 
 No **Search Explorer** , inclua a query fornecida pela documentação `search=*&$count=true` , e clique em **"search"** .
 
-**Arquivo JSON - Pesquisa :** [consulta_string_on.json]()
+**Arquivo JSON - Pesquisa :** [consulta_string_on.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/consulta_string_on.json)
 
 <img src="Inputs/Consulta String On - Pesquisa.png">
 
-**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_string_on.json]()
+**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_string_on.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Output/resultado_consulta_string_on.json)
 
 <img src="Output/Consulta String On - Resultado.png">
 
