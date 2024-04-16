@@ -221,3 +221,12 @@ Preenchendo a aba ***"Create an indexer"*** :
 >
 > **Passo 4 :** Click no botão **SUBMIT**.
 
+#### **Passo 12: Visualizar o Indexador**
+
+<img src="Assets/Passo 12 - Visualizar o Indexador.gif">
+
+Arquivo JSON: [visualizar_indexador.json]()
+
+#### **Passo 13: Consulte o Índice :**
+Use o Search Explorer para escrever e testar consultas. O explorador de pesquisa é uma ferramenta incorporada no portal do Azure que oferece uma maneira fácil de validar a qualidade do seu índice de pesquisa. Você pode usar o Search Explorer para escrever consultas e revisar resultados em JSON.
+
