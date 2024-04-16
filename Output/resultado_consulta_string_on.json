@@ -1,0 +1,5 @@
+{
+    "@odata.context": "https://lab-busca.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+    "value": []
+  }
+  
