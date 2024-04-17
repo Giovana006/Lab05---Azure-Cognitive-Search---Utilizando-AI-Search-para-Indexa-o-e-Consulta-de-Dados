@@ -285,3 +285,19 @@ Agora filtramos pelo sentimento negativo `search=sentiment:'negative'`
 
 <img src="Output/Sentimento Negativo - Resultado/Sentimento Negativo - Resultado.png">
 
+### **Links Úteis :**
+
+[Fundamentos de IA do Microsoft Azure : Inteligência de Documentos e Mineração de Conhecimento](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/)
+
+[Explore um Índice do Azure AI Search](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
+
+### **Tecnologias Utilizadas :**
+
+Pesquisa de IA do Microsoft Azure
+Serviço de IA do Microsoft Azure
+Contas de armazenamento do Microsoft Azure (contêineres, armazenamento de Blop)
+
+### **Limpando o Ambiente :**
+
+> [!WARNING]
+> Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription
