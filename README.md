@@ -277,11 +277,11 @@ Vamos executar uma consulta com base em uma análise de sentimento **negativo** 
 
 Agora filtramos pelo sentimento negativo `search=sentiment:'negative'`
 
-**Arquivo JSON - Pesquisa :** [consulta_sentiment_negative.json]()
+**Arquivo JSON - Pesquisa :** [consulta_sentiment_negative.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/Sentimento%20Negativo%20-%20Pesquisa/consulta_sentiment_negative.json)
 
 <img src="Inputs/Sentimento Negativo - Pesquisa/Sentimento Negativo - Pesquisa.png">
 
-**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_sentiment_negative.json]()
+**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_sentiment_negative.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Output/Sentimento%20Negativo%20-%20Resultado/resultado_consulta_sentiment_negative.json)
 
 <img src="Output/Sentimento Negativo - Resultado/Sentimento Negativo - Resultado.png">
 
