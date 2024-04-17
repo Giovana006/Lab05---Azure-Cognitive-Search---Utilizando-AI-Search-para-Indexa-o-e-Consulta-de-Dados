@@ -261,7 +261,7 @@ No **Search Explorer** , inclua a query fornecida pela documentação `search=*&
 
 Agora vamos filtrar as consultas por localização em Chicago.
 
-Filtramos pela localização `search=locations:'Chicago'` e ele vai trazer as reviews com os sentimentos de cada.
+Podemos filtrar pela localização `search=locations:'Chicago'` e ele vai trazer as reviews com os sentimentos de cada.
 
 **Arquivo JSON - Pesquisa :** [consulta_localition_chicago.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/Localiza%C3%A7%C3%A3o%20Chigaco%20-%20Pesquisa/consulta_localition_chicago.json)
 
@@ -270,4 +270,18 @@ Filtramos pela localização `search=locations:'Chicago'` e ele vai trazer as re
 **Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_localition_chicago.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Output/Localiza%C3%A7%C3%A3o%20Chigaco%20-%20Resultado/resultado_consulta_localition_chicago.json)
 
 <img src="Output/Localização Chigaco - Resultado/Localização Chigaco - Resultado.png">
+
++ **3° Pesquisa :**
+
+Vamos executar uma consulta com base em uma análise de sentimento **negativo** .
+
+Agora filtramos pelo sentimento negativo `search=sentiment:'negative'`
+
+**Arquivo JSON - Pesquisa :** [consulta_sentiment_negative.json]()
+
+<img src="Inputs/Sentimento Negativo - Pesquisa/Sentimento Negativo - Pesquisa.png">
+
+**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_sentiment_negative.json]()
+
+<img src="Output/Sentimento Negativo - Resultado/Sentimento Negativo - Resultado.png">
 
