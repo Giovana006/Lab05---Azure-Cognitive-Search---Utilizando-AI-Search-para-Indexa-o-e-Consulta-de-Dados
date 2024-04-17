@@ -285,6 +285,24 @@ Agora filtramos pelo sentimento negativo `search=sentiment:'negative'`
 
 <img src="Output/Sentimento Negativo - Resultado/Sentimento Negativo - Resultado.png">
 
+### **Conclusão :**
+
+A busca por IA para indexação e consulta de dados revoluciona a maneira como interagimos com grandes volumes de informação. Ferramentas como assistentes virtuais, sistemas de recomendação e plataformas de análise de dados se beneficiam enormemente, oferecendo respostas rápidas e insights precisos. Durante o processo, aprende-se a importância da qualidade dos dados, a necessidade de algoritmos eficientes e a capacidade de adaptar-se continuamente às mudanças nas tendências de dados. A IA não apenas simplifica a busca por informações, mas também desbloqueia novas possibilidades para descobertas e inovações.
+
+O experimento realizado com o **Azure Cognitive Search** demonstrou a eficácia deste serviço de índice de Pesquisa de IA.
+
+Através do uso de um conjunto de habilidades de IA, foi possível processar e enriquecer dados brutos, transformando-os em informações pesquisáveis e úteis.
+
+A implementação de uma solução de mineração de conhecimento permitiu a extração de insights valiosos a partir de avaliações de clientes, evidenciando o potencial do Azure Cognitive Search como uma ferramenta poderosa para a análise de dados e a tomada de decisões baseada em dados.
+
+Além disso, a capacidade do serviço de suportar o enriquecimento incremental destaca sua eficiência em termos de custos, tornando-o uma opção viável e atraente para empresas e organizações que buscam otimizar seus processos de análise de dados.
+
+Em suma, o Azure Cognitive Search provou ser uma ferramenta de grande valia para transformar dados brutos em conhecimento acionável, abrindo novas possibilidades para a análise de dados e a inteligência de negócios.
+
+### **Comentários do Projeto :**
+
+Muito interessante a funcionalidade da ferramenta para estabelecimentos que prestam serviço. A análise funciona muito bem identificando as frases-chaves, sentimento, localização, e a busca agrega de forma correta todas essas informações. É possível saber quais são as causas das reviews negativas, por exemplo, já que as frases-chaves trazem essa informação. Assim, fica mais fácil de resolver o problema da insatisfação do cliente.
+
 ### **Links Úteis :**
 
 [Fundamentos de IA do Microsoft Azure : Inteligência de Documentos e Mineração de Conhecimento](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/)
@@ -293,9 +311,9 @@ Agora filtramos pelo sentimento negativo `search=sentiment:'negative'`
 
 ### **Tecnologias Utilizadas :**
 
-Pesquisa de IA do Microsoft Azure
-Serviço de IA do Microsoft Azure
-Contas de armazenamento do Microsoft Azure (contêineres, armazenamento de Blop)
++ Pesquisa de IA do Microsoft Azure
++ Serviço de IA do Microsoft Azure
++ Contas de armazenamento do Microsoft Azure (contêineres, armazenamento de Blop)
 
 ### **Limpando o Ambiente :**
 
