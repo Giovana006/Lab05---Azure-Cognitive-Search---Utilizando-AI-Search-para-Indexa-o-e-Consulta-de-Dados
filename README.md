@@ -249,11 +249,11 @@ Vamos começar analisando se a string de consulta está disponível.
 
 No **Search Explorer** , inclua a query fornecida pela documentação `search=*&$count=true` , e clique em **"search"** .
 
-**Arquivo JSON - Pesquisa :** [consulta_string_on.json]()
+**Arquivo JSON - Pesquisa :** [consulta_string_on.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/Consulta%20String%20On%20-%20Pesquisa/consulta_string_on.json)
 
 <img src="Inputs/Consulta String On - Pesquisa/Consulta String On - Pesquisa.png">
 
-**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_string_on.json]()
+**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_string_on.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Output/Consulta%20String%20On%20-%20Resultado/resultado_consulta_string_on.json)
 
 <img src="Output/Consulta String On - Resultado/Consulta String On - Resultado.png">
 
@@ -263,11 +263,11 @@ Agora vamos filtrar as consultas por localização em Chicago.
 
 Filtramos pela localização `search=locations:'Chicago'` e ele vai trazer as reviews com os sentimentos de cada.
 
-**Arquivo JSON - Pesquisa :** [consulta_localition_chicago.json]()
+**Arquivo JSON - Pesquisa :** [consulta_localition_chicago.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Inputs/Localiza%C3%A7%C3%A3o%20Chigaco%20-%20Pesquisa/consulta_localition_chicago.json)
 
 <img src="Inputs/Localização Chigaco - Pesquisa/Localização Chigaco - Pesquisa.png">
 
-**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_localition_chicago.json]()
+**Arquivo JSON - Resultado da Pesquisa :** [resultado_consulta_localition_chicago.json](https://github.com/Giovana006/Lab05---Azure-Cognitive-Search---Utilizando-AI-Search-para-Indexa-o-e-Consulta-de-Dados/blob/main/Output/Localiza%C3%A7%C3%A3o%20Chigaco%20-%20Resultado/resultado_consulta_localition_chicago.json)
 
 <img src="Output/Localização Chigaco - Resultado/Localização Chigaco - Resultado.png">
 
